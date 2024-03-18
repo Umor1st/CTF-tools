@@ -1,5 +1,5 @@
 # CTF-tools 
-## My ctf tools staff to solve tasks
+## My ctf tools stuff to solve tasks
 
 # OSINT
 
